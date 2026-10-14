@@ -1,0 +1,5 @@
+# Local-only contact configuration. Never publish the development phone.
+config.local.js
+
+# Local build/editor files
+.DS_Store
